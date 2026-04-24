@@ -11,16 +11,7 @@ Features
 -Add books to cart
 -Place orders
 
-*Admin Features
--Add new books
--Update existing books
--Delete books
--View all users
--Manage orders
 
-Tech Stack
-
-Frontend
 -React.js
 -Axios
 -React Router
